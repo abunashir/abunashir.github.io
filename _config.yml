@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: https://abunashir.github.io
+title: Abu Nashir
+tagline: ""
+description: Ruby & Javascripts
+paginate: 10
